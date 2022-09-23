@@ -7,4 +7,5 @@ iii. Understand CSS
 iv. Understand Js
 
 2. Learn Backend Dev
-1. Learn and understand PHP
+i. Learn and understand PHP
+ii. Understand Java
