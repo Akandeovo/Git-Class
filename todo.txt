@@ -1,0 +1,10 @@
+My To-do List
+
+1. Learn Frontend Dev
+i.. Learn HTML
+ii. understand HTML 
+iii. Understand CSS
+iv. Understand Js
+
+2. Learn Backend Dev
+1. Learn and understand PHP
